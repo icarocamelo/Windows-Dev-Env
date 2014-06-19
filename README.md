@@ -1,6 +1,7 @@
-Windows development environment using Vagrant 1.6
+Windows development environment using Vagrant
 ===========
 
+**Required softwares: VirtualBox and Vagrant 1.6**
 
 1. git clone https://github.com/icarocamelo/win-dev-env
 2. cd win-dev-env
