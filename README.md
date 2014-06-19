@@ -1,4 +1,4 @@
-Windows development environment using Vagrant
+Automated Windows development environment
 ===========
 
 **Required softwares: VirtualBox and Vagrant 1.6**
