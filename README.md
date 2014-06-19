@@ -16,3 +16,15 @@ Steps
 3. vagrant up
 4. vagrant rdp
 5. Open Prompt » Run 'provision.bat'
+
+
+Chocolatey
+===========
+A package manager for Windows that looks like UNIX 'apt-get'.
+More details: <a href="http://www.chocolatey.org" target="_blank">Chocolatey</a>
+
+
+Provision
+===========
+
+The 'provision.bat' will install softwares based on Chocolatey packages. This file can and must be edited according your development environment.
