@@ -10,8 +10,8 @@ echo 'Install GIT...'
 cinst git.install
 echo 'Installation finished successfully!'
 
-echo 'Install VS 2013...'
-cinst VisualStudio2013Ultimate
+echo 'Install VS 2012...'
+cinst VisualStudio2012Ultimate
 echo 'Installation finished successfully!'
 
 echo 'Install SqlServer 2012 Express...'
