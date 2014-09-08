@@ -2,6 +2,10 @@ echo 'Install Chocolatey...'
 @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%systemdrive%\chocolatey\bin
 echo 'Installation finished successfully!'
 
+echo 'Install .NET Framework 4.0...'
+cinst DotNet4.0
+echo 'Installation finished successfully!' 
+
 echo 'Install putty...'
 cinst putty
 echo 'Installation finished successfully!'
